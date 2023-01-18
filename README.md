@@ -10,4 +10,4 @@ Something will be put here, eventually.
 
 ## Experience
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NovaTheThird&count_private=true&theme=github_dark&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NovaTheThird&hide_border=true&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NovaTheThird&hide_border=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)

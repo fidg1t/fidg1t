@@ -7,5 +7,5 @@ My name is Nicholas Brennan, I'm a video game programmer and software engineer. 
 On this Github, you can find repositories for personal projects of mine.
 
 ## Experience
-![Nicholas' GitHub stats](https://github-readme-stats.vercel.app/api?username=NovaTheThird&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NovaTheThird&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NovaTheThird&hide_border=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)

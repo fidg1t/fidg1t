@@ -2,7 +2,7 @@
 
 ## About Me
 
-My name is Nicholas Brennan, I'm a video game programmer and software engineer. I am currently studying at DigiPen: Institute of Technology and have already created two video games on a custom engine, along with developing a third currently. You can find the download to these games on my website [here](https://www.nicholasbrennan.dev/).
+My name is Nicholas Brennan, I'm a video game programmer and software engineer. I am currently studying at DigiPen: Institute of Technology. I have already created two video games on a custom engine and am  developing a third currently. You can find the download to these games on my website [here](https://www.nicholasbrennan.dev/).
 
 On this Github, you can find repositories for personal projects of mine.
 
